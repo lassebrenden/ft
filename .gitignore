@@ -1,0 +1,10 @@
+/data/*.json
+/temp/*.json
+/tmp/*.json
+/sample.json
+__pycache__/
+*.xlsx
+!FT.xlsx
+.DS_Store
+Thumbs.db
+_bruno
